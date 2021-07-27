@@ -1,3 +1,3 @@
 # js-first-project
 
-My first changes to the project
+My first changes to the project and second changes
